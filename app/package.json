@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "userpassport",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekarkcs/passport.git"
+  },
+  "author": "chandra shekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekarkcs/passport/issues"
+  },
+  "homepage": "https://github.com/shekarkcs/passport#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
